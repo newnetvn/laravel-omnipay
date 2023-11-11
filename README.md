@@ -74,7 +74,7 @@ Các cổng thanh toán đang được hổ trợ tích hợp:
 Cài đặt Laravel Omnipay thông qua [Composer](https://getcomposer.org):
 
 ```bash
-composer require phpviet/laravel-omnipay
+composer require newnetvn/laravel-omnipay
 ```
 
 Sau khi cài đặt xong bạn cần phải publish config file để thiết lập thông số cho cổng thanh toán bạn cần tích hợp, publish thông qua câu lệnh:
